@@ -55,9 +55,9 @@ O aplicativo implementa as seguintes funcionalidades, seguindo o protótipo de b
 
 ## Como Executar o Projeto
 
-1.  **Clone o repositório (se aplicável) e navegue até a pasta do projeto:**
+1.  **Clone o repositório e navegue até a pasta do projeto:**
     ```bash
-    cd d:\Modulo10\pondMod10\reactNative\app
+    cd pondMod10\reactNative\app
     ```
 
 2.  **Instale as dependências:**
